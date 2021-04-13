@@ -50,19 +50,19 @@ body, ul { padding: 0; margin: 0; }
 }
 
 .primeiro {
-    background-image: url(img/item1.png);
+    background-image: url(../img/item1.png);
 }
 
 .segundo {
-    background-image: url(img/item2.png);
+    background-image: url(../img/item2.png);
 }
 
 .terceiro {
-    background-image: url(img/item3.png);
+    background-image: url(../img/item3.png);
 }
 
 .quarto {
-    background-image: url(img/item4.png);
+    background-image: url(../img/item4.png);
 }
 
 @media screen and (max-width: 768px) {
